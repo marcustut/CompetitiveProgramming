@@ -1,4 +1,12 @@
-//http://codeforces.com/problemset/problem/228/A
+/*
+ID: 77209427
+Submitted Time: 19/04/2020 01:33
+Problem: http://codeforces.com/problemset/problem/228/A
+Lang: GNU C++17
+Verdict: Accepted
+Time: 62ms
+Memory: 300KB
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
